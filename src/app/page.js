@@ -216,6 +216,159 @@ export default function Home() {
   const [jul29, setJul29] = useState("");
   const [jul30, setJul30] = useState("");
   const [jul31, setJul31] = useState("");
+  const [aug1, setAug1] = useState("");
+  const [aug2, setAug2] = useState("");
+  const [aug3, setAug3] = useState("");
+  const [aug4, setAug4] = useState("");
+  const [aug5, setAug5] = useState("");
+  const [aug6, setAug6] = useState("");
+  const [aug7, setAug7] = useState("");
+  const [aug8, setAug8] = useState("");
+  const [aug9, setAug9] = useState("");
+  const [aug10, setAug10] = useState("");
+  const [aug11, setAug11] = useState("");
+  const [aug12, setAug12] = useState("");
+  const [aug13, setAug13] = useState("");
+  const [aug14, setAug14] = useState("");
+  const [aug15, setAug15] = useState("");
+  const [aug16, setAug16] = useState("");
+  const [aug17, setAug17] = useState("");
+  const [aug18, setAug18] = useState("");
+  const [aug19, setAug19] = useState("");
+  const [aug20, setAug20] = useState("");
+  const [aug21, setAug21] = useState("");
+  const [aug22, setAug22] = useState("");
+  const [aug23, setAug23] = useState("");
+  const [aug24, setAug24] = useState("");
+  const [aug25, setAug25] = useState("");
+  const [aug26, setAug26] = useState("");
+  const [aug27, setAug27] = useState("");
+  const [aug28, setAug28] = useState("");
+  const [aug29, setAug29] = useState("");
+  const [aug30, setAug30] = useState("");
+  const [aug31, setAug31] = useState("");
+  const [sep1, setSep1] = useState("");
+  const [sep2, setSep2] = useState("");
+  const [sep3, setSep3] = useState("");
+  const [sep4, setSep4] = useState("");
+  const [sep5, setSep5] = useState("");
+  const [sep6, setSep6] = useState("");
+  const [sep7, setSep7] = useState("");
+  const [sep8, setSep8] = useState("");
+  const [sep9, setSep9] = useState("");
+  const [sep10, setSep10] = useState("");
+  const [sep11, setSep11] = useState("");
+  const [sep12, setSep12] = useState("");
+  const [sep13, setSep13] = useState("");
+  const [sep14, setSep14] = useState("");
+  const [sep15, setSep15] = useState("");
+  const [sep16, setSep16] = useState("");
+  const [sep17, setSep17] = useState("");
+  const [sep18, setSep18] = useState("");
+  const [sep19, setSep19] = useState("");
+  const [sep20, setSep20] = useState("");
+  const [sep21, setSep21] = useState("");
+  const [sep22, setSep22] = useState("");
+  const [sep23, setSep23] = useState("");
+  const [sep24, setSep24] = useState("");
+  const [sep25, setSep25] = useState("");
+  const [sep26, setSep26] = useState("");
+  const [sep27, setSep27] = useState("");
+  const [sep28, setSep28] = useState("");
+  const [sep29, setSep29] = useState("");
+  const [sep30, setSep30] = useState("");
+  const [oct1, setOct1] = useState("");
+  const [oct2, setOct2] = useState("");
+  const [oct3, setOct3] = useState("");
+  const [oct4, setOct4] = useState("");
+  const [oct5, setOct5] = useState("");
+  const [oct6, setOct6] = useState("");
+  const [oct7, setOct7] = useState("");
+  const [oct8, setOct8] = useState("");
+  const [oct9, setOct9] = useState("");
+  const [oct10, setOct10] = useState("");
+  const [oct11, setOct11] = useState("");
+  const [oct12, setOct12] = useState("");
+  const [oct13, setOct13] = useState("");
+  const [oct14, setOct14] = useState("");
+  const [oct15, setOct15] = useState("");
+  const [oct16, setOct16] = useState("");
+  const [oct17, setOct17] = useState("");
+  const [oct18, setOct18] = useState("");
+  const [oct19, setOct19] = useState("");
+  const [oct20, setOct20] = useState("");
+  const [oct21, setOct21] = useState("");
+  const [oct22, setOct22] = useState("");
+  const [oct23, setOct23] = useState("");
+  const [oct24, setOct24] = useState("");
+  const [oct25, setOct25] = useState("");
+  const [oct26, setOct26] = useState("");
+  const [oct27, setOct27] = useState("");
+  const [oct28, setOct28] = useState("");
+  const [oct29, setOct29] = useState("");
+  const [oct30, setOct30] = useState("");
+  const [oct31, setOct31] = useState("");
+  const [nov1, setNov1] = useState("");
+  const [nov2, setNov2] = useState("");
+  const [nov3, setNov3] = useState("");
+  const [nov4, setNov4] = useState("");
+  const [nov5, setNov5] = useState("");
+  const [nov6, setNov6] = useState("");
+  const [nov7, setNov7] = useState("");
+  const [nov8, setNov8] = useState("");
+  const [nov9, setNov9] = useState("");
+  const [nov10, setNov10] = useState("");
+  const [nov11, setNov11] = useState("");
+  const [nov12, setNov12] = useState("");
+  const [nov13, setNov13] = useState("");
+  const [nov14, setNov14] = useState("");
+  const [nov15, setNov15] = useState("");
+  const [nov16, setNov16] = useState("");
+  const [nov17, setNov17] = useState("");
+  const [nov18, setNov18] = useState("");
+  const [nov19, setNov19] = useState("");
+  const [nov20, setNov20] = useState("");
+  const [nov21, setNov21] = useState("");
+  const [nov22, setNov22] = useState("");
+  const [nov23, setNov23] = useState("");
+  const [nov24, setNov24] = useState("");
+  const [nov25, setNov25] = useState("");
+  const [nov26, setNov26] = useState("");
+  const [nov27, setNov27] = useState("");
+  const [nov28, setNov28] = useState("");
+  const [nov29, setNov29] = useState("");
+  const [nov30, setNov30] = useState("");
+  const [dec1, setDec1] = useState("");
+  const [dec2, setDec2] = useState("");
+  const [dec3, setDec3] = useState("");
+  const [dec4, setDec4] = useState("");
+  const [dec5, setDec5] = useState("");
+  const [dec6, setDec6] = useState("");
+  const [dec7, setDec7] = useState("");
+  const [dec8, setDec8] = useState("");
+  const [dec9, setDec9] = useState("");
+  const [dec10, setDec10] = useState("");
+  const [dec11, setDec11] = useState("");
+  const [dec12, setDec12] = useState("");
+  const [dec13, setDec13] = useState("");
+  const [dec14, setDec14] = useState("");
+  const [dec15, setDec15] = useState("");
+  const [dec16, setDec16] = useState("");
+  const [dec17, setDec17] = useState("");
+  const [dec18, setDec18] = useState("");
+  const [dec19, setDec19] = useState("");
+  const [dec20, setDec20] = useState("");
+  const [dec21, setDec21] = useState("");
+  const [dec22, setDec22] = useState("");
+  const [dec23, setDec23] = useState("");
+  const [dec24, setDec24] = useState("");
+  const [dec25, setDec25] = useState("");
+  const [dec26, setDec26] = useState("");
+  const [dec27, setDec27] = useState("");
+  const [dec28, setDec28] = useState("");
+  const [dec29, setDec29] = useState("");
+  const [dec30, setDec30] = useState("");
+  const [dec31, setDec31] = useState("");
 
   function handleJanuary() {
     dispatch({
@@ -1579,6 +1732,7 @@ export default function Home() {
         <td></td>
       </tr>
     </table>}
+    {currentMonth == "August" && <b>Add items here (click field to submit)</b>}
     {currentMonth == "August" && <table><b>August</b>
       <tr>
         <th>Sunday</th>
@@ -1595,47 +1749,109 @@ export default function Home() {
         <td></td>
         <td></td>
         <td></td>
-        <td>1 <input type="text"></input></td>
-        <td>2 <input type="text"></input></td>
+        <td>1 <input type="text" onChange={() => {}} onClick={e => {
+          setAug1(e.target.value);
+        }}></input></td>
+        <td>2 <input type="text" onChange={() => {}} onClick={e => {
+          setAug2(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>3 <input type="text"></input></td>
-        <td>4 <input type="text"></input></td>
-        <td>5 <input type="text"></input></td>
-        <td>6 <input type="text"></input></td>
-        <td>7 <input type="text"></input></td>
-        <td>8 <input type="text"></input></td>
-        <td>9 <input type="text"></input></td>
+        <td>3 <input type="text" onChange={() => {}} onClick={e => {
+          setAug3(e.target.value);
+        }}></input></td>
+        <td>4 <input type="text" onChange={() => {}} onClick={e => {
+          setAug4(e.target.value);
+        }}></input></td>
+        <td>5 <input type="text" onChange={() => {}} onClick={e => {
+          setAug5(e.target.value);
+        }}></input></td>
+        <td>6 <input type="text" onChange={() => {}} onClick={e => {
+          setAug6(e.target.value);
+        }}></input></td>
+        <td>7 <input type="text" onChange={() => {}} onClick={e => {
+          setAug7(e.target.value);
+        }}></input></td>
+        <td>8 <input type="text" onChange={() => {}} onClick={e => {
+          setAug8(e.target.value);
+        }}></input></td>
+        <td>9 <input type="text" onChange={() => {}} onClick={e => {
+          setAug9(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>10  <input type="text"></input></td>
-        <td>11  <input type="text"></input></td>
-        <td>12  <input type="text"></input></td>
-        <td>13  <input type="text"></input></td>
-        <td>14  <input type="text"></input></td>
-        <td>15  <input type="text"></input></td>
-        <td>16  <input type="text"></input></td>
+        <td>10  <input type="text" onChange={() => {}} onClick={e => {
+          setAug10(e.target.value);
+        }}></input></td>
+        <td>11  <input type="text" onChange={() => {}} onClick={e => {
+          setAug11(e.target.value);
+        }}></input></td>
+        <td>12  <input type="text" onChange={() => {}} onClick={e => {
+          setAug12(e.target.value);
+        }}></input></td>
+        <td>13  <input type="text" onChange={() => {}} onClick={e => {
+          setAug13(e.target.value);
+        }}></input></td>
+        <td>14  <input type="text" onChange={() => {}} onClick={e => {
+          setAug14(e.target.value);
+        }}></input></td>
+        <td>15  <input type="text" onChange={() => {}} onClick={e => {
+          setAug15(e.target.value);
+        }}></input></td>
+        <td>16  <input type="text" onChange={() => {}} onClick={e => {
+          setAug16(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>17  <input type="text"></input></td>
-        <td>18  <input type="text"></input></td>
-        <td>19  <input type="text"></input></td>
-        <td>20  <input type="text"></input></td>
-        <td>21  <input type="text"></input></td>
-        <td>22  <input type="text"></input></td>
-        <td>23  <input type="text"></input></td>
+        <td>17  <input type="text" onChange={() => {}} onClick={e => {
+          setAug17(e.target.value);
+        }}></input></td>
+        <td>18  <input type="text" onChange={() => {}} onClick={e => {
+          setAug18(e.target.value);
+        }}></input></td>
+        <td>19  <input type="text" onChange={() => {}} onClick={e => {
+          setAug19(e.target.value);
+        }}></input></td>
+        <td>20  <input type="text" onChange={() => {}} onClick={e => {
+          setAug20(e.target.value);
+        }}></input></td>
+        <td>21  <input type="text" onChange={() => {}} onClick={e => {
+          setAug21(e.target.value);
+        }}></input></td>
+        <td>22  <input type="text" onChange={() => {}} onClick={e => {
+          setAug22(e.target.value);
+        }}></input></td>
+        <td>23  <input type="text" onChange={() => {}} onClick={e => {
+          setAug23(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>24  <input type="text"></input></td>
-        <td>25  <input type="text"></input></td>
-        <td>26  <input type="text"></input></td>
-        <td>27  <input type="text"></input></td>
-        <td>28  <input type="text"></input></td>
-        <td>29  <input type="text"></input></td>
-        <td>30  <input type="text"></input></td>
+        <td>24  <input type="text" onChange={() => {}} onClick={e => {
+          setAug24(e.target.value);
+        }}></input></td>
+        <td>25  <input type="text" onChange={() => {}} onClick={e => {
+          setAug25(e.target.value);
+        }}></input></td>
+        <td>26  <input type="text" onChange={() => {}} onClick={e => {
+          setAug26(e.target.value);
+        }}></input></td>
+        <td>27  <input type="text" onChange={() => {}} onClick={e => {
+          setAug27(e.target.value);
+        }}></input></td>
+        <td>28  <input type="text" onChange={() => {}} onClick={e => {
+          setAug28(e.target.value);
+        }}></input></td>
+        <td>29  <input type="text" onChange={() => {}} onClick={e => {
+          setAug29(e.target.value);
+        }}></input></td>
+        <td>30  <input type="text" onChange={() => {}} onClick={e => {
+          setAug30(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>31  <input type="text"></input></td>
+        <td>31  <input type="text" onChange={() => {}} onClick={e => {
+          setAug31(e.target.value);
+        }}></input></td>
         <td></td>
         <td></td>
         <td></td>
@@ -1644,6 +1860,73 @@ export default function Home() {
         <td></td>
       </tr>
     </table>}
+    {currentMonth == "August" && <b>View items here</b>}
+    {currentMonth == "August" && <table><b>August</b>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1 <input type="text" value={aug1}></input></td>
+        <td>2 <input type="text" value={aug2}></input></td>
+      </tr>
+      <tr>
+        <td>3 <input type="text" value={aug3}></input></td>
+        <td>4 <input type="text" value={aug4}></input></td>
+        <td>5 <input type="text" value={aug5}></input></td>
+        <td>6 <input type="text" value={aug6}></input></td>
+        <td>7 <input type="text" value={aug7}></input></td>
+        <td>8 <input type="text" value={aug8}></input></td>
+        <td>9 <input type="text" value={aug9}></input></td>
+      </tr>
+      <tr>
+        <td>10  <input type="text" value={aug10}></input></td>
+        <td>11  <input type="text" value={aug11}></input></td>
+        <td>12  <input type="text" value={aug12}></input></td>
+        <td>13  <input type="text" value={aug13}></input></td>
+        <td>14  <input type="text" value={aug14}></input></td>
+        <td>15  <input type="text" value={aug15}></input></td>
+        <td>16  <input type="text" value={aug16}></input></td>
+      </tr>
+      <tr>
+        <td>17  <input type="text" value={aug17}></input></td>
+        <td>18  <input type="text" value={aug18}></input></td>
+        <td>19  <input type="text" value={aug19}></input></td>
+        <td>20  <input type="text" value={aug20}></input></td>
+        <td>21  <input type="text" value={aug21}></input></td>
+        <td>22  <input type="text" value={aug22}></input></td>
+        <td>23  <input type="text" value={aug23}></input></td>
+      </tr>
+      <tr>
+        <td>24  <input type="text" value={aug24}></input></td>
+        <td>25  <input type="text" value={aug25}></input></td>
+        <td>26  <input type="text" value={aug26}></input></td>
+        <td>27  <input type="text" value={aug27}></input></td>
+        <td>28  <input type="text" value={aug28}></input></td>
+        <td>29  <input type="text" value={aug29}></input></td>
+        <td>30  <input type="text" value={aug30}></input></td>
+      </tr>
+      <tr>
+        <td>31  <input type="text" value={aug31}></input></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>}
+    {currentMonth == "September" && <b>Add items here (click field to submit)</b>}
     {currentMonth == "September" && <table><b>September</b>
       <tr>
         <th>Sunday</th>
@@ -1656,50 +1939,168 @@ export default function Home() {
       </tr>
       <tr>
         <td></td>
-        <td>1 <input type="text"></input></td>
-        <td>2 <input type="text"></input></td>
-        <td>3 <input type="text"></input></td>
-        <td>4 <input type="text"></input></td>
-        <td>5 <input type="text"></input></td>
-        <td>6 <input type="text"></input></td>
+        <td>1 <input type="text" onChange={() => {}} onClick={e => {
+          setSep1(e.target.value);
+        }}></input></td>
+        <td>2 <input type="text" onChange={() => {}} onClick={e => {
+          setSep2(e.target.value);
+        }}></input></td>
+        <td>3 <input type="text" onChange={() => {}} onClick={e => {
+          setSep3(e.target.value);
+        }}></input></td>
+        <td>4 <input type="text" onChange={() => {}} onClick={e => {
+          setSep4(e.target.value);
+        }}></input></td>
+        <td>5 <input type="text" onChange={() => {}} onClick={e => {
+          setSep5(e.target.value);
+        }}></input></td>
+        <td>6 <input type="text" onChange={() => {}} onClick={e => {
+          setSep6(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>7 <input type="text"></input></td>
-        <td>8 <input type="text"></input></td>
-        <td>9  <input type="text"></input></td>
-        <td>10  <input type="text"></input></td>
-        <td>11  <input type="text"></input></td>
-        <td>12  <input type="text"></input></td>
-        <td>13  <input type="text"></input></td>
+        <td>7 <input type="text" onChange={() => {}} onClick={e => {
+          setSep7(e.target.value);
+        }}></input></td>
+        <td>8 <input type="text" onChange={() => {}} onClick={e => {
+          setSep8(e.target.value);
+        }}></input></td>
+        <td>9  <input type="text" onChange={() => {}} onClick={e => {
+          setSep9(e.target.value);
+        }}></input></td>
+        <td>10  <input type="text" onChange={() => {}} onClick={e => {
+          setSep10(e.target.value);
+        }}></input></td>
+        <td>11  <input type="text" onChange={() => {}} onClick={e => {
+          setSep11(e.target.value);
+        }}></input></td>
+        <td>12  <input type="text" onChange={() => {}} onClick={e => {
+          setSep12(e.target.value);
+        }}></input></td>
+        <td>13  <input type="text" onChange={() => {}} onClick={e => {
+          setSep13(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>14  <input type="text"></input></td>
-        <td>15  <input type="text"></input></td>
-        <td>16  <input type="text"></input></td>
-        <td>17  <input type="text"></input></td>
-        <td>18  <input type="text"></input></td>
-        <td>19  <input type="text"></input></td>
-        <td>20  <input type="text"></input></td>
+        <td>14  <input type="text" onChange={() => {}} onClick={e => {
+          setSep14(e.target.value);
+        }}></input></td>
+        <td>15  <input type="text" onChange={() => {}} onClick={e => {
+          setSep15(e.target.value);
+        }}></input></td>
+        <td>16  <input type="text" onChange={() => {}} onClick={e => {
+          setSep16(e.target.value);
+        }}></input></td>
+        <td>17  <input type="text" onChange={() => {}} onClick={e => {
+          setSep17(e.target.value);
+        }}></input></td>
+        <td>18  <input type="text" onChange={() => {}} onClick={e => {
+          setSep18(e.target.value);
+        }}></input></td>
+        <td>19  <input type="text" onChange={() => {}} onClick={e => {
+          setSep19(e.target.value);
+        }}></input></td>
+        <td>20  <input type="text" onChange={() => {}} onClick={e => {
+          setSep20(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>21  <input type="text"></input></td>
-        <td>22  <input type="text"></input></td>
-        <td>23  <input type="text"></input></td>
-        <td>24  <input type="text"></input></td>
-        <td>25  <input type="text"></input></td>
-        <td>26  <input type="text"></input></td>
-        <td>27  <input type="text"></input></td>
+        <td>21  <input type="text" onChange={() => {}} onClick={e => {
+          setSep21(e.target.value);
+        }}></input></td>
+        <td>22  <input type="text" onChange={() => {}} onClick={e => {
+          setSep22(e.target.value);
+        }}></input></td>
+        <td>23  <input type="text" onChange={() => {}} onClick={e => {
+          setSep23(e.target.value);
+        }}></input></td>
+        <td>24  <input type="text" onChange={() => {}} onClick={e => {
+          setSep24(e.target.value);
+        }}></input></td>
+        <td>25  <input type="text" onChange={() => {}} onClick={e => {
+          setSep25(e.target.value);
+        }}></input></td>
+        <td>26  <input type="text" onChange={() => {}} onClick={e => {
+          setSep26(e.target.value);
+        }}></input></td>
+        <td>27  <input type="text" onChange={() => {}} onClick={e => {
+          setSep27(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>28  <input type="text"></input></td>
-        <td>29  <input type="text"></input></td>
-        <td>30  <input type="text"></input></td>
+        <td>28  <input type="text" onChange={() => {}} onClick={e => {
+          setSep28(e.target.value);
+        }}></input></td>
+        <td>29  <input type="text" onChange={() => {}} onClick={e => {
+          setSep29(e.target.value);
+        }}></input></td>
+        <td>30  <input type="text" onChange={() => {}} onClick={e => {
+          setSep30(e.target.value);
+        }}></input></td>
         <td></td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
     </table>}
+    {currentMonth == "September" && <b>View items here</b>}
+    {currentMonth == "September" && <table><b>September</b>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr>
+        <td></td>
+        <td>1 <input type="text" value={sep1}></input></td>
+        <td>2 <input type="text" value={sep2}></input></td>
+        <td>3 <input type="text" value={sep3}></input></td>
+        <td>4 <input type="text" value={sep4}></input></td>
+        <td>5 <input type="text" value={sep5}></input></td>
+        <td>6 <input type="text" value={sep6}></input></td>
+      </tr>
+      <tr>
+        <td>7 <input type="text" value={sep7}></input></td>
+        <td>8 <input type="text" value={sep8}></input></td>
+        <td>9  <input type="text" value={sep9}></input></td>
+        <td>10  <input type="text" value={sep10}></input></td>
+        <td>11  <input type="text" value={sep11}></input></td>
+        <td>12  <input type="text" value={sep12}></input></td>
+        <td>13  <input type="text" value={sep13}></input></td>
+      </tr>
+      <tr>
+        <td>14  <input type="text" value={sep14}></input></td>
+        <td>15  <input type="text" value={sep15}></input></td>
+        <td>16  <input type="text" value={sep16}></input></td>
+        <td>17  <input type="text" value={sep17}></input></td>
+        <td>18  <input type="text" value={sep18}></input></td>
+        <td>19  <input type="text" value={sep19}></input></td>
+        <td>20  <input type="text" value={sep20}></input></td>
+      </tr>
+      <tr>
+        <td>21  <input type="text" value={sep21}></input></td>
+        <td>22  <input type="text" value={sep22}></input></td>
+        <td>23  <input type="text" value={sep23}></input></td>
+        <td>24  <input type="text" value={sep24}></input></td>
+        <td>25  <input type="text" value={sep25}></input></td>
+        <td>26  <input type="text" value={sep26}></input></td>
+        <td>27  <input type="text" value={sep27}></input></td>
+      </tr>
+      <tr>
+        <td>28  <input type="text" value={sep28}></input></td>
+        <td>29  <input type="text" value={sep29}></input></td>
+        <td>30  <input type="text" value={sep30}></input></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>}
+    {currentMonth == "October" && <b>Add items here (click field to submit)</b>}
     {currentMonth == "October" && <table><b>October</b>
       <tr>
         <th>Sunday</th>
@@ -1714,48 +2115,168 @@ export default function Home() {
         <td></td>
         <td></td>
         <td></td>
-        <td>1 <input type="text"></input></td>
-        <td>2 <input type="text"></input></td>
-        <td>3 <input type="text"></input></td>
-        <td>4 <input type="text"></input></td>
+        <td>1 <input type="text" onChange={() => {}} onClick={e => {
+          setOct1(e.target.value);
+        }}></input></td>
+        <td>2 <input type="text" onChange={() => {}} onClick={e => {
+          setOct2(e.target.value);
+        }}></input></td>
+        <td>3 <input type="text" onChange={() => {}} onClick={e => {
+          setOct3(e.target.value);
+        }}></input></td>
+        <td>4 <input type="text" onChange={() => {}} onClick={e => {
+          setOct4(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>5 <input type="text"></input></td>
-        <td>6 <input type="text"></input></td>
-        <td>7 <input type="text"></input></td>
-        <td>8 <input type="text"></input></td>
-        <td>9 <input type="text"></input></td>
-        <td>10  <input type="text"></input></td>
-        <td>11  <input type="text"></input></td>
+        <td>5 <input type="text" onChange={() => {}} onClick={e => {
+          setOct5(e.target.value);
+        }}></input></td>
+        <td>6 <input type="text" onChange={() => {}} onClick={e => {
+          setOct6(e.target.value);
+        }}></input></td>
+        <td>7 <input type="text" onChange={() => {}} onClick={e => {
+          setOct7(e.target.value);
+        }}></input></td>
+        <td>8 <input type="text" onChange={() => {}} onClick={e => {
+          setOct8(e.target.value);
+        }}></input></td>
+        <td>9 <input type="text" onChange={() => {}} onClick={e => {
+          setOct9(e.target.value);
+        }}></input></td>
+        <td>10  <input type="text" onChange={() => {}} onClick={e => {
+          setOct10(e.target.value);
+        }}></input></td>
+        <td>11  <input type="text" onChange={() => {}} onClick={e => {
+          setOct11(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>12  <input type="text"></input></td>
-        <td>13  <input type="text"></input></td>
-        <td>14  <input type="text"></input></td>
-        <td>15  <input type="text"></input></td>
-        <td>16  <input type="text"></input></td>
-        <td>17  <input type="text"></input></td>
-        <td>18  <input type="text"></input></td>
+        <td>12  <input type="text" onChange={() => {}} onClick={e => {
+          setOct12(e.target.value);
+        }}></input></td>
+        <td>13  <input type="text" onChange={() => {}} onClick={e => {
+          setOct13(e.target.value);
+        }}></input></td>
+        <td>14  <input type="text" onChange={() => {}} onClick={e => {
+          setOct14(e.target.value);
+        }}></input></td>
+        <td>15  <input type="text" onChange={() => {}} onClick={e => {
+          setOct15(e.target.value);
+        }}></input></td>
+        <td>16  <input type="text" onChange={() => {}} onClick={e => {
+          setOct16(e.target.value);
+        }}></input></td>
+        <td>17  <input type="text" onChange={() => {}} onClick={e => {
+          setOct17(e.target.value);
+        }}></input></td>
+        <td>18  <input type="text" onChange={() => {}} onClick={e => {
+          setOct18(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>19  <input type="text"></input></td>
-        <td>20  <input type="text"></input></td>
-        <td>21  <input type="text"></input></td>
-        <td>22  <input type="text"></input></td>
-        <td>23  <input type="text"></input></td>
-        <td>24  <input type="text"></input></td>
-        <td>25  <input type="text"></input></td>
+        <td>19  <input type="text" onChange={() => {}} onClick={e => {
+          setOct19(e.target.value);
+        }}></input></td>
+        <td>20  <input type="text" onChange={() => {}} onClick={e => {
+          setOct20(e.target.value);
+        }}></input></td>
+        <td>21  <input type="text" onChange={() => {}} onClick={e => {
+          setOct21(e.target.value);
+        }}></input></td>
+        <td>22  <input type="text" onChange={() => {}} onClick={e => {
+          setOct22(e.target.value);
+        }}></input></td>
+        <td>23  <input type="text" onChange={() => {}} onClick={e => {
+          setOct23(e.target.value);
+        }}></input></td>
+        <td>24  <input type="text" onChange={() => {}} onClick={e => {
+          setOct24(e.target.value);
+        }}></input></td>
+        <td>25  <input type="text" onChange={() => {}} onClick={e => {
+          setOct25(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>26  <input type="text"></input></td>
-        <td>27  <input type="text"></input></td>
-        <td>28  <input type="text"></input></td>
-        <td>29  <input type="text"></input></td>
-        <td>30  <input type="text"></input></td>
-        <td>31  <input type="text"></input></td>
+        <td>26  <input type="text" onChange={() => {}} onClick={e => {
+          setOct26(e.target.value);
+        }}></input></td>
+        <td>27  <input type="text" onChange={() => {}} onClick={e => {
+          setOct27(e.target.value);
+        }}></input></td>
+        <td>28  <input type="text" onChange={() => {}} onClick={e => {
+          setOct28(e.target.value);
+        }}></input></td>
+        <td>29  <input type="text" onChange={() => {}} onClick={e => {
+          setOct29(e.target.value);
+        }}></input></td>
+        <td>30  <input type="text" onChange={() => {}} onClick={e => {
+          setOct30(e.target.value);
+        }}></input></td>
+        <td>31  <input type="text" onChange={() => {}} onClick={e => {
+          setOct31(e.target.value);
+        }}></input></td>
         <td></td>
       </tr>
     </table>}
+    {currentMonth == "October" && <b>View items here</b>}
+    {currentMonth == "October" && <table><b>October</b>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1 <input type="text" value={oct1}></input></td>
+        <td>2 <input type="text" value={oct2}></input></td>
+        <td>3 <input type="text" value={oct3}></input></td>
+        <td>4 <input type="text" value={oct4}></input></td>
+      </tr>
+      <tr>
+        <td>5 <input type="text" value={oct5}></input></td>
+        <td>6 <input type="text" value={oct6}></input></td>
+        <td>7 <input type="text" value={oct7}></input></td>
+        <td>8 <input type="text" value={oct8}></input></td>
+        <td>9 <input type="text" value={oct9}></input></td>
+        <td>10  <input type="text" value={oct10}></input></td>
+        <td>11  <input type="text" value={oct11}></input></td>
+      </tr>
+      <tr>
+        <td>12  <input type="text" value={oct12}></input></td>
+        <td>13  <input type="text" value={oct13}></input></td>
+        <td>14  <input type="text" value={oct14}></input></td>
+        <td>15  <input type="text" value={oct15}></input></td>
+        <td>16  <input type="text" value={oct16}></input></td>
+        <td>17  <input type="text" value={oct17}></input></td>
+        <td>18  <input type="text" value={oct18}></input></td>
+      </tr>
+      <tr>
+        <td>19  <input type="text" value={oct19}></input></td>
+        <td>20  <input type="text" value={oct20}></input></td>
+        <td>21  <input type="text" value={oct21}></input></td>
+        <td>22  <input type="text" value={oct22}></input></td>
+        <td>23  <input type="text" value={oct23}></input></td>
+        <td>24  <input type="text" value={oct24}></input></td>
+        <td>25  <input type="text" value={oct25}></input></td>
+      </tr>
+      <tr>
+        <td>26  <input type="text" value={oct26}></input></td>
+        <td>27  <input type="text" value={oct27}></input></td>
+        <td>28  <input type="text" value={oct28}></input></td>
+        <td>29  <input type="text" value={oct29}></input></td>
+        <td>30  <input type="text" value={oct30}></input></td>
+        <td>31  <input type="text" value={oct31}></input></td>
+        <td></td>
+      </tr>
+    </table>}
+    {currentMonth == "November" && <b>Add items here (click field to submit)</b>}
     {currentMonth == "November" && <table><b>November</b>
       <tr>
         <th>Sunday</th>
@@ -1773,46 +2294,106 @@ export default function Home() {
         <td></td>
         <td></td>
         <td></td>
-        <td>1 <input type="text"></input></td>
+        <td>1 <input type="text" onChange={() => {}} onClick={e => {
+          setNov1(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>2 <input type="text"></input></td>
-        <td>3 <input type="text"></input></td>
-        <td>4 <input type="text"></input></td>
-        <td>5 <input type="text"></input></td>
-        <td>6 <input type="text"></input></td>
-        <td>7 <input type="text"></input></td>
-        <td>8 <input type="text"></input></td>
+        <td>2 <input type="text" onChange={() => {}} onClick={e => {
+          setNov2(e.target.value);
+        }}></input></td>
+        <td>3 <input type="text" onChange={() => {}} onClick={e => {
+          setNov3(e.target.value);
+        }}></input></td>
+        <td>4 <input type="text" onChange={() => {}} onClick={e => {
+          setNov4(e.target.value);
+        }}></input></td>
+        <td>5 <input type="text" onChange={() => {}} onClick={e => {
+          setNov5(e.target.value);
+        }}></input></td>
+        <td>6 <input type="text" onChange={() => {}} onClick={e => {
+          setNov6(e.target.value);
+        }}></input></td>
+        <td>7 <input type="text" onChange={() => {}} onClick={e => {
+          setNov7(e.target.value);
+        }}></input></td>
+        <td>8 <input type="text" onChange={() => {}} onClick={e => {
+          setNov8(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>9 <input type="text"></input></td>
-        <td>10  <input type="text"></input></td>
-        <td>11  <input type="text"></input></td>
-        <td>12  <input type="text"></input></td>
-        <td>13  <input type="text"></input></td>
-        <td>14  <input type="text"></input></td>
-        <td>15  <input type="text"></input></td>
+        <td>9 <input type="text" onChange={() => {}} onClick={e => {
+          setNov9(e.target.value);
+        }}></input></td>
+        <td>10  <input type="text" onChange={() => {}} onClick={e => {
+          setNov10(e.target.value);
+        }}></input></td>
+        <td>11  <input type="text" onChange={() => {}} onClick={e => {
+          setNov11(e.target.value);
+        }}></input></td>
+        <td>12  <input type="text" onChange={() => {}} onClick={e => {
+          setNov12(e.target.value);
+        }}></input></td>
+        <td>13  <input type="text" onChange={() => {}} onClick={e => {
+          setNov13(e.target.value);
+        }}></input></td>
+        <td>14  <input type="text" onChange={() => {}} onClick={e => {
+          setNov14(e.target.value);
+        }}></input></td>
+        <td>15  <input type="text" onChange={() => {}} onClick={e => {
+          setNov15(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>16  <input type="text"></input></td>
-        <td>17  <input type="text"></input></td>
-        <td>18  <input type="text"></input></td>
-        <td>19  <input type="text"></input></td>
-        <td>20  <input type="text"></input></td>
-        <td>21  <input type="text"></input></td>
-        <td>22  <input type="text"></input></td>
+        <td>16  <input type="text" onChange={() => {}} onClick={e => {
+          setNov16(e.target.value);
+        }}></input></td>
+        <td>17  <input type="text" onChange={() => {}} onClick={e => {
+          setNov17(e.target.value);
+        }}></input></td>
+        <td>18  <input type="text" onChange={() => {}} onClick={e => {
+          setNov18(e.target.value);
+        }}></input></td>
+        <td>19  <input type="text" onChange={() => {}} onClick={e => {
+          setNov19(e.target.value);
+        }}></input></td>
+        <td>20  <input type="text" onChange={() => {}} onClick={e => {
+          setNov20(e.target.value);
+        }}></input></td>
+        <td>21  <input type="text" onChange={() => {}} onClick={e => {
+          setNov21(e.target.value);
+        }}></input></td>
+        <td>22  <input type="text" onChange={() => {}} onClick={e => {
+          setNov22(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>23  <input type="text"></input></td>
-        <td>24  <input type="text"></input></td>
-        <td>25  <input type="text"></input></td>
-        <td>26  <input type="text"></input></td>
-        <td>27  <input type="text"></input></td>
-        <td>28  <input type="text"></input></td>
-        <td>29  <input type="text"></input></td>
+        <td>23  <input type="text" onChange={() => {}} onClick={e => {
+          setNov23(e.target.value);
+        }}></input></td>
+        <td>24  <input type="text" onChange={() => {}} onClick={e => {
+          setNov24(e.target.value);
+        }}></input></td>
+        <td>25  <input type="text" onChange={() => {}} onClick={e => {
+          setNov25(e.target.value);
+        }}></input></td>
+        <td>26  <input type="text" onChange={() => {}} onClick={e => {
+          setNov26(e.target.value);
+        }}></input></td>
+        <td>27  <input type="text" onChange={() => {}} onClick={e => {
+          setNov27(e.target.value);
+        }}></input></td>
+        <td>28  <input type="text" onChange={() => {}} onClick={e => {
+          setNov28(e.target.value);
+        }}></input></td>
+        <td>29  <input type="text" onChange={() => {}} onClick={e => {
+          setNov29(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>30  <input type="text"></input></td>
+        <td>30  <input type="text" onChange={() => {}} onClick={e => {
+          setNov30(e.target.value);
+        }}></input></td>
         <td></td>
         <td></td>
         <td></td>
@@ -1821,6 +2402,73 @@ export default function Home() {
         <td></td>
       </tr>
     </table>}
+    {currentMonth == "November" && <b>View items here</b>}
+    {currentMonth == "November" && <table><b>November</b>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1 <input type="text" value={nov1}></input></td>
+      </tr>
+      <tr>
+        <td>2 <input type="text" value={nov2}></input></td>
+        <td>3 <input type="text" value={nov3}></input></td>
+        <td>4 <input type="text" value={nov4}></input></td>
+        <td>5 <input type="text" value={nov5}></input></td>
+        <td>6 <input type="text" value={nov6}></input></td>
+        <td>7 <input type="text" value={nov7}></input></td>
+        <td>8 <input type="text" value={nov8}></input></td>
+      </tr>
+      <tr>
+        <td>9 <input type="text" value={nov9}></input></td>
+        <td>10  <input type="text" value={nov10}></input></td>
+        <td>11  <input type="text" value={nov11}></input></td>
+        <td>12  <input type="text" value={nov12}></input></td>
+        <td>13  <input type="text" value={nov13}></input></td>
+        <td>14  <input type="text" value={nov14}></input></td>
+        <td>15  <input type="text" value={nov15}></input></td>
+      </tr>
+      <tr>
+        <td>16  <input type="text" value={nov16}></input></td>
+        <td>17  <input type="text" value={nov17}></input></td>
+        <td>18  <input type="text" value={nov18}></input></td>
+        <td>19  <input type="text" value={nov19}></input></td>
+        <td>20  <input type="text" value={nov20}></input></td>
+        <td>21  <input type="text" value={nov21}></input></td>
+        <td>22  <input type="text" value={nov22}></input></td>
+      </tr>
+      <tr>
+        <td>23  <input type="text" value={nov23}></input></td>
+        <td>24  <input type="text" value={nov24}></input></td>
+        <td>25  <input type="text" value={nov25}></input></td>
+        <td>26  <input type="text" value={nov26}></input></td>
+        <td>27  <input type="text" value={nov27}></input></td>
+        <td>28  <input type="text" value={nov28}></input></td>
+        <td>29  <input type="text" value={nov29}></input></td>
+      </tr>
+      <tr>
+        <td>30  <input type="text" value={nov30}></input></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>}
+    {currentMonth == "December" && <b>Add items here (click field to submit)</b>}
     {currentMonth == "December" && <table><b>December</b>
       <tr>
         <th>Sunday</th>
@@ -1833,45 +2481,164 @@ export default function Home() {
       </tr>
       <tr>
         <td></td>
-        <td>1 <input type="text"></input></td>
-        <td>2 <input type="text"></input></td>
-        <td>3 <input type="text"></input></td>
-        <td>4 <input type="text"></input></td>
-        <td>5 <input type="text"></input></td>
-        <td>6 <input type="text"></input></td>
+        <td>1 <input type="text" onChange={() => {}} onClick={e => {
+          setDec1(e.target.value);
+        }}></input></td>
+        <td>2 <input type="text" onChange={() => {}} onClick={e => {
+          setDec2(e.target.value);
+        }}></input></td>
+        <td>3 <input type="text" onChange={() => {}} onClick={e => {
+          setDec3(e.target.value);
+        }}></input></td>
+        <td>4 <input type="text" onChange={() => {}} onClick={e => {
+          setDec4(e.target.value);
+        }}></input></td>
+        <td>5 <input type="text" onChange={() => {}} onClick={e => {
+          setDec5(e.target.value);
+        }}></input></td>
+        <td>6 <input type="text" onChange={() => {}} onClick={e => {
+          setDec6(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>7 <input type="text"></input></td>
-        <td>8 <input type="text"></input></td>
-        <td>9 <input type="text"></input></td>
-        <td>10  <input type="text"></input></td>
-        <td>11  <input type="text"></input></td>
-        <td>12  <input type="text"></input></td>
-        <td>13  <input type="text"></input></td>
+        <td>7 <input type="text" onChange={() => {}} onClick={e => {
+          setDec7(e.target.value);
+        }}></input></td>
+        <td>8 <input type="text" onChange={() => {}} onClick={e => {
+          setDec8(e.target.value);
+        }}></input></td>
+        <td>9 <input type="text" onChange={() => {}} onClick={e => {
+          setDec9(e.target.value);
+        }}></input></td>
+        <td>10  <input type="text" onChange={() => {}} onClick={e => {
+          setDec10(e.target.value);
+        }}></input></td>
+        <td>11  <input type="text" onChange={() => {}} onClick={e => {
+          setDec11(e.target.value);
+        }}></input></td>
+        <td>12  <input type="text" onChange={() => {}} onClick={e => {
+          setDec12(e.target.value);
+        }}></input></td>
+        <td>13  <input type="text" onChange={() => {}} onClick={e => {
+          setDec13(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>14  <input type="text"></input></td>
-        <td>15  <input type="text"></input></td>
-        <td>16  <input type="text"></input></td>
-        <td>17  <input type="text"></input></td>
-        <td>18  <input type="text"></input></td>
-        <td>19  <input type="text"></input></td>
-        <td>20  <input type="text"></input></td>
+        <td>14  <input type="text" onChange={() => {}} onClick={e => {
+          setDec14(e.target.value);
+        }}></input></td>
+        <td>15  <input type="text" onChange={() => {}} onClick={e => {
+          setDec15(e.target.value);
+        }}></input></td>
+        <td>16  <input type="text" onChange={() => {}} onClick={e => {
+          setDec16(e.target.value);
+        }}></input></td>
+        <td>17  <input type="text" onChange={() => {}} onClick={e => {
+          setDec17(e.target.value);
+        }}></input></td>
+        <td>18  <input type="text" onChange={() => {}} onClick={e => {
+          setDec18(e.target.value);
+        }}></input></td>
+        <td>19  <input type="text" onChange={() => {}} onClick={e => {
+          setDec19(e.target.value);
+        }}></input></td>
+        <td>20  <input type="text" onChange={() => {}} onClick={e => {
+          setDec20(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>21  <input type="text"></input></td>
-        <td>22  <input type="text"></input></td>
-        <td>23  <input type="text"></input></td>
-        <td>24  <input type="text"></input></td>
-        <td>25  <input type="text"></input></td>
-        <td>26  <input type="text"></input></td>
-        <td>27  <input type="text"></input></td>
+        <td>21  <input type="text" onChange={() => {}} onClick={e => {
+          setDec21(e.target.value);
+        }}></input></td>
+        <td>22  <input type="text" onChange={() => {}} onClick={e => {
+          setDec22(e.target.value);
+        }}></input></td>
+        <td>23  <input type="text" onChange={() => {}} onClick={e => {
+          setDec23(e.target.value);
+        }}></input></td>
+        <td>24  <input type="text" onChange={() => {}} onClick={e => {
+          setDec24(e.target.value);
+        }}></input></td>
+        <td>25  <input type="text" onChange={() => {}} onClick={e => {
+          setDec25(e.target.value);
+        }}></input></td>
+        <td>26  <input type="text" onChange={() => {}} onClick={e => {
+          setDec26(e.target.value);
+        }}></input></td>
+        <td>27  <input type="text" onChange={() => {}} onClick={e => {
+          setDec27(e.target.value);
+        }}></input></td>
       </tr>
       <tr>
-        <td>28  <input type="text"></input></td>
-        <td>29  <input type="text"></input></td>
-        <td>30  <input type="text"></input></td>
-        <td>31  <input type="text"></input></td>
+        <td>28  <input type="text" onChange={() => {}} onClick={e => {
+          setDec28(e.target.value);
+        }}></input></td>
+        <td>29  <input type="text" onChange={() => {}} onClick={e => {
+          setDec29(e.target.value);
+        }}></input></td>
+        <td>30  <input type="text" onChange={() => {}} onClick={e => {
+          setDec30(e.target.value);
+        }}></input></td>
+        <td>31  <input type="text" onChange={() => {}} onClick={e => {
+          setDec31(e.target.value);
+        }}></input></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>}
+    {currentMonth == "December" && <b>View items here</b>}
+    {currentMonth == "December" && <table><b>December</b>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr>
+        <td></td>
+        <td>1 <input type="text" value={dec1}></input></td>
+        <td>2 <input type="text" value={dec2}></input></td>
+        <td>3 <input type="text" value={dec3}></input></td>
+        <td>4 <input type="text" value={dec4}></input></td>
+        <td>5 <input type="text" value={dec5}></input></td>
+        <td>6 <input type="text" value={dec6}></input></td>
+      </tr>
+      <tr>
+        <td>7 <input type="text" value={dec7}></input></td>
+        <td>8 <input type="text" value={dec8}></input></td>
+        <td>9 <input type="text" value={dec9}></input></td>
+        <td>10  <input type="text" value={dec10}></input></td>
+        <td>11  <input type="text" value={dec11}></input></td>
+        <td>12  <input type="text" value={dec12}></input></td>
+        <td>13  <input type="text" value={dec13}></input></td>
+      </tr>
+      <tr>
+        <td>14  <input type="text" value={dec14}></input></td>
+        <td>15  <input type="text" value={dec15}></input></td>
+        <td>16  <input type="text" value={dec16}></input></td>
+        <td>17  <input type="text" value={dec17}></input></td>
+        <td>18  <input type="text" value={dec18}></input></td>
+        <td>19  <input type="text" value={dec19}></input></td>
+        <td>20  <input type="text" value={dec20}></input></td>
+      </tr>
+      <tr>
+        <td>21  <input type="text" value={dec21}></input></td>
+        <td>22  <input type="text" value={dec22}></input></td>
+        <td>23  <input type="text" value={dec23}></input></td>
+        <td>24  <input type="text" value={dec24}></input></td>
+        <td>25  <input type="text" value={dec25}></input></td>
+        <td>26  <input type="text" value={dec26}></input></td>
+        <td>27  <input type="text" value={dec27}></input></td>
+      </tr>
+      <tr>
+        <td>28  <input type="text" value={dec28}></input></td>
+        <td>29  <input type="text" value={dec29}></input></td>
+        <td>30  <input type="text" value={dec30}></input></td>
+        <td>31  <input type="text" value={dec31}></input></td>
         <td></td>
         <td></td>
         <td></td>
