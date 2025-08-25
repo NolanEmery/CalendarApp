@@ -395,8 +395,8 @@ export default function Home() {
   });
 
   return (
-    <html suppressHydrationWarning>
-      <body>
+    <html suppressHydrationWarning={true}>
+      <body suppressHydrationWarning={true}>
         <Provider>
           <Tabs.Root fitted>
             <Tabs.List>
@@ -427,8 +427,9 @@ export default function Home() {
             </Tabs.List>
             <Tabs.Content value="january">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>January</b>
               <table>
-                <b>January</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -828,8 +829,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="february">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>February</b>
               <table>
-                <b>February</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -1196,8 +1198,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="march">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>March</b>
               <table>
-                <b>March</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -1606,8 +1609,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="april">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>April</b>
               <table>
-                <b>April</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -1996,8 +2000,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="may">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>May</b>
               <table>
-                <b>May</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -2397,8 +2402,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="june">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>June</b>
               <table>
-                <b>June</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -2787,8 +2793,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="july">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>July</b>
               <table>
-                <b>July</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -3188,8 +3195,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="august">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>August</b>
               <table>
-                <b>August</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -3598,8 +3606,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="september">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>September</b>
               <table>
-                <b>September</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -3988,8 +3997,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="october">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>October</b>
               <table>
-                <b>October</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -4389,8 +4399,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="november">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>November</b>
               <table>
-                <b>November</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -4788,8 +4799,9 @@ export default function Home() {
             </Tabs.Content>
             <Tabs.Content value="december">
               <b>Add items here (click field to submit)</b>
+              <hr />
+              <b>December</b>
               <table>
-                <b>December</b>
                 <tr>
                   <th>Sunday</th>
                   <th>Monday</th>
@@ -5189,9 +5201,11 @@ export default function Home() {
             </Tabs.Content>
           </Tabs.Root>
         </Provider>
+        <h1>At a glance</h1>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>January</b>
         <table>
-          <b>January</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -5465,8 +5479,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>February</b>
         <table>
-          <b>February</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -5719,8 +5734,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>March</b>
         <table>
-          <b>March</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -6003,8 +6019,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>April</b>
         <table>
-          <b>April</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -6271,8 +6288,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>May</b>
         <table>
-          <b>May</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -6546,8 +6564,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>June</b>
         <table>
-          <b>June</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -6814,8 +6833,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>July</b>
         <table>
-          <b>July</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -7089,8 +7109,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>August</b>
         <table>
-          <b>August</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -7373,8 +7394,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>September</b>
         <table>
-          <b>September</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -7641,8 +7663,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>October</b>
         <table>
-          <b>October</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -7916,8 +7939,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>November</b>
         <table>
-          <b>November</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
@@ -8193,8 +8217,9 @@ export default function Home() {
           </tr>
         </table>
         <b>Add items here (click field to submit)</b>
+        <hr />
+        <b>December</b>
         <table>
-          <b>December</b>
           <tr>
             <th>Sunday</th>
             <th>Monday</th>
