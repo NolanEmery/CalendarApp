@@ -47,3 +47,8 @@ b {
 button {
   background-color: orange;
 }
+
+textarea {
+  background-color: lightgray;
+  width: 100px;
+}
