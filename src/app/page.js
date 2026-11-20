@@ -3,6 +3,7 @@ import { Provider } from "@/components/ui/provider";
 import { Tabs, Card, Heading, Input, SimpleGrid, Textarea } from "@chakra-ui/react";
 import { Prose } from '@/components/ui/prose';
 import { useState } from 'react';
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   const [jan, setJan] = useState({
